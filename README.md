@@ -1,12 +1,11 @@
 # 利用UnblockNeteaseMusic解锁网易云灰色歌曲
 
-#### 你只需要准备一台云服务器
+#### 你只需要准备一台云服务器 
 
 ```
 为什么会有这个项目？我这个项目和原项目有什么区别？
 原项目链接:
 https://github.com/meng-chuan/Unlock-netease-cloud-music
-
 原项目的安装教程过于陈旧，不在适用，耽误了我很多时间。
 我仅仅修改了原项目的两个地方 
 Unlock-netease-cloud-music/src/app.js 19行将8080修改为52000
