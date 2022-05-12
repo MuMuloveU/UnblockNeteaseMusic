@@ -42,7 +42,7 @@ git clone https://github.com/MuMuloveU/UnblockNeteaseMusic
 
 运行用户选择root
 
-![](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121417674.png)
+![image-20220512143516807](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121435892.png)
 
 ## 0x06 放行端口
 
