@@ -42,8 +42,16 @@ git clone https://github.com/MuMuloveU/UnblockNeteaseMusic
 
 运行用户选择root
 
-![](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121417674.png)
+![image-20220512143516807](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121435892.png)
 
 ## 0x06 放行端口
 
 ![image-20220512142126290](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121421337.png)
+
+网易云音乐代理设置 
+
+ip地址 你的服务器ip 
+
+端口   52000
+
+![image-20220512152755288](https://cdn.jsdelivr.net/gh/MuMuloveU/tuchuang/202205121527355.png)
